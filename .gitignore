@@ -1,3 +1,30 @@
+
+Skip to content
+
+    Pull requests
+    Issues
+    Marketplace
+    Explore
+
+    @leegggg
+
+1
+0
+
+    0
+
+leegggg/stf
+Code
+Issues 0
+Pull requests 0
+Projects 0
+Wiki
+Insights
+Settings
+stf/.gitignore
+717b371 3 minutes ago
+@leegggg leegggg Initial commit
+105 lines (84 sloc) 1.17 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +129,19 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+    © 2018 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Press h to open a hovercard with more details.
